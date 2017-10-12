@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>CT417StudentRegistrationSystem</groupId>
+	<artifactId>CT417StudentDriverSystem</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>CT417StudentDriverSystem</name>
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+	<dependencies>
+	<dependency>
+	    <groupId>com.github.cianbreslin97</groupId>
+	    <artifactId>CT417StudentRegistrationSystem</artifactId>
+	    <version>v0.1</version>
+	</dependency>
+	</dependencies>
+</project>
