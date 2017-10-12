@@ -25,7 +25,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>Main</mainClass>
+						<mainClass>CT417StudentDriverSystem.TestDriver</mainClass>
 					</manifest>
 				</archive>
 				<descriptorRefs>
